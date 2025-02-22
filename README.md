@@ -67,7 +67,7 @@ This 📌 project is a 🌐 web-based 📲 application designed to manage 👥 u
 ### 🏗️ Backend Setup
 1. 📂 Clone the repository:
    ```sh
-   git clone https://github.com/your-repository.git
+   git clone https://github.com/FelipeSarmiento/PruebaTecnicaCityLending.git
    cd PruebaTecnicaFelipe.Server
    ```
 2. ⚙️ Configure the 💾 database connection in `appsettings.json`. 

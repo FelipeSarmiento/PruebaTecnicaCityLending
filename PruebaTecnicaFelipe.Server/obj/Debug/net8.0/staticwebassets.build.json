@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "Hze9raayBkwaH1mmvfSSMLXfBWcTRjIXL0EHulh3w9o=",
+  "Source": "PruebaTecnicaFelipe.Server",
+  "BasePath": "_content/PruebaTecnicaFelipe.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\fsarm\\OneDrive\\Escritorio\\Projects\\PruebaTecnicaFelipe\\pruebatecnicafelipe.client\\pruebatecnicafelipe.client.esproj",
+      "Version": 2,
+      "Source": "pruebatecnicafelipe.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:49892",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\fsarm\\OneDrive\\Escritorio\\Projects\\PruebaTecnicaFelipe\\PruebaTecnicaFelipe.Server\\..\\pruebatecnicafelipe.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -94,7 +94,7 @@ This 📌 project is a 🌐 web-based 📲 application designed to manage 👥 u
 📄 This project is licensed under the 🆓 MIT License.
 
 ## 📞 Contact
-For any inquiries, please reach out to ✉️ acharris@citylendinginc.com.
+For any inquiries, please reach out to ✉️ f.sarmiento.profesional@gmail.com or +57 3107225197
 
 
 
